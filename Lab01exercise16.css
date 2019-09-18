@@ -1,4 +1,8 @@
-
+[title^="Calgary"] {
+    cursor: help; text-decoration: none; padding-bottom: 3px;
+    border-bottom: 2px dotted blue;
+    }
+    
 h1, h2, h3 {
  font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
 }
