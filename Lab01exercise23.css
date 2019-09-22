@@ -6,7 +6,10 @@ header, footer, nav, article, section, figure, figcaption, h1, h2, h3, ul, li, b
    vertical-align: baseline;
    border: 0;
 }
-
+body {
+   font-family: 'Lato', Helvetica, Arial, sans‐serif;
+   }
+   
 header, footer {
   color: #213643;
   background-color: white;
@@ -80,6 +83,10 @@ figure div {
    background-image: url(images/gray-gradient.gif);
    background-repeat: repeat-x;
 }
+h1, h2, h3 {
+   font-family: "Lobster", Georgia, Cambria, "Times New Roman", serif;
+   }
+   
 
 
 
